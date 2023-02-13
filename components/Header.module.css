@@ -1,0 +1,19 @@
+.logo__text {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 33.18px;
+  line-height: 120%;
+
+  @apply text-white;
+}
+
+.header__text {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 180%;
+
+  @apply text-white;
+}
